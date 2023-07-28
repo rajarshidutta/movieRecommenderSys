@@ -1,4 +1,4 @@
-# MovieRecommenderSys
+# Movie Recommender System
 
 • Developed web based content-based movie recommendation
 system using Python and Streamlit.
